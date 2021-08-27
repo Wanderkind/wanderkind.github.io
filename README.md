@@ -1,8 +1,10 @@
-# Jeongseop Lee /이정섭
+# Jeongseop Lee / 이정섭
+
+<br>
 
 ### [Blog](https://blog.naver.com/inamoratowanderlust)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
