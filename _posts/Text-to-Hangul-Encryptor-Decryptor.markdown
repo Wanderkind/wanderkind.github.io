@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Text to Hangul Encryptor/Decryptor"
-subtitle:   "Google Colab Preferences and Usage"
 categories: utilities
 ---
 
