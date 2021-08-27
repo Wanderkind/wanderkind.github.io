@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+# Jeongseop Lee /이정섭
 
-You can use the [editor on GitHub](https://github.com/Wanderkind/wanderkind.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### [Blog](https://blog.naver.com/inamoratowanderlust)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
