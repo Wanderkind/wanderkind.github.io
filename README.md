@@ -14,6 +14,8 @@
 
 ### [Dacon](https://dacon.io/myprofile/429672/home) &nbsp;&nbsp;Wanderkind
 
+### [lichess](https://lichess.org/@/Wanderkind) &nbsp;&nbsp;Wanderkind
+
 ### [Instagram](https://www.instagram.com/joungsublee/) &nbsp;&nbsp;@joungsublee
 
 ### [Facebook](https://www.facebook.com/joungsub.lee.1/)
