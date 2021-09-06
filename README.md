@@ -16,6 +16,8 @@
 
 ### [lichess](https://lichess.org/@/Wanderkind) &nbsp;&nbsp;Wanderkind
 
+### [Duolingo](https://www.duolingo.com/profile/Wanderkind99) &nbsp;&nbsp;이정섭/Wanderkind99
+
 ### [Instagram](https://www.instagram.com/joungsublee/) &nbsp;&nbsp;@joungsublee
 
 ### [Facebook](https://www.facebook.com/joungsub.lee.1/)
