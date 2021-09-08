@@ -4,7 +4,7 @@
 
 ## Links
 
-### [Blog](https://blog.naver.com/inamoratowanderlust)
+### [Blog](https://blog.naver.com/inamoratowanderlust) &nbsp;&nbsp;Archives : 네이버 블로그
 
 ### [SoundCloud](https://soundcloud.com/musicianwanderkind/sets) &nbsp;&nbsp;Wanderkind
 
