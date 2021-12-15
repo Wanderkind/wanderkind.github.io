@@ -26,8 +26,6 @@
 
 ### [Instagram](https://www.instagram.com/joungsublee/) &nbsp;&nbsp;@joungsublee
 
-### [Facebook](https://www.facebook.com/joungsub.lee.1/)
-
 <br>
 
 ## Utilities
