@@ -28,6 +28,3 @@
 
 <br>
 
-## Utilities
-
-### [Text to Hangul Encryptor/Decryptor](https://wanderkind.neocities.org/TTHED.html)
