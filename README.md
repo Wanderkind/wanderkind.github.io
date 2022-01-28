@@ -18,6 +18,10 @@
 
 ### [GitHub](https://github.com/Wanderkind) &nbsp;&nbsp;Wanderkind
 
+### [Kattis](https://open.kattis.com/users/es2r5638)
+
+### [BOJ](https://www.acmicpc.net/user/wanderkind)&nbsp;&nbsp;wanderkind
+
 ### [Dacon](https://dacon.io/myprofile/429672/home) &nbsp;&nbsp;Wanderkind
 
 ### [Duolingo](https://www.duolingo.com/profile/Wanderkind99) &nbsp;&nbsp;이정섭&nbsp;/&nbsp;Wanderkind99
