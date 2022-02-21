@@ -18,7 +18,7 @@
 
 ### [GitHub](https://github.com/Wanderkind) &nbsp;&nbsp;Wanderkind
 
-### [BOJ](https://www.acmicpc.net/user/wanderkind) &nbsp;&nbsp;wanderkind
+### [BOJ](https://www.acmicpc.net/user/wanderkind) &nbsp;&nbsp; [sloved.ac](https://solved.ac/profile/wanderkind) &nbsp;&nbsp;wanderkind
 
 ### [Codeforces](https://codeforces.com/profile/Wanderkind) &nbsp;&nbsp;Wanderkind
 
