@@ -12,9 +12,9 @@
 
 ### [LinkedIn](https://www.linkedin.com/in/wanderkind/)
 
-### [ORCID](https://orcid.org/0000-0002-2388-1264) &nbsp;&nbsp;0000-0002-2388-1264
+### [ORCID](https://orcid.org/0000-0002-2388-1264) &nbsp;&nbsp;0000-0002-2388-1264 <br>
 
-<span id="nsolved"><img src="https://projecteuler.net/profile/Wanderkind.png"/></span><br>
+### Project&nbsp;Euler&nbsp;<span id="nsolved"><img src="https://projecteuler.net/profile/Wanderkind.png"/></span><br>
 
 ### [OEIS](https://oeis.org/search?q=Jeongseop+Lee&language=english&go=Search) &nbsp;&nbsp;Jeongseop Lee
 
