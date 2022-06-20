@@ -2,9 +2,7 @@
 
 ### A portfolio webpage
 
-<br>
-
-#### Into methods of translating the ambiguities of man and nature into the language of numbers and logic.
+##### Into methods of translating the ambiguities of man and nature into the language of numbers and logic.
 
 <br>
 
