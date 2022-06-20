@@ -4,6 +4,10 @@
 
 <br>
 
+#### Into methods of translating the ambiguities of man and nature into the language of numbers and logic.
+
+<br>
+
 ## Links
 
 ### [Blog](https://blog.naver.com/inamoratowanderlust) &nbsp;&nbsp;Archives : 네이버 블로그
@@ -14,7 +18,7 @@
 
 ### [ORCID](https://orcid.org/0000-0002-2388-1264) &nbsp;&nbsp;0000-0002-2388-1264 <br>
 
-### [Project Euler](https://projecteuler.net/) &nbsp;&nbsp; <span id="nsolved"><img src="https://projecteuler.net/profile/Wanderkind.png"/></span><font size="1">1964146_EzP0k2rt7Ht7aSMsF7dZOCN1mEEHq0wP</font><br>
+### [Project Euler](https://projecteuler.net/) &nbsp;&nbsp; <span id="nsolved"><img src="https://projecteuler.net/profile/Wanderkind.png"/></span><font size="2"> &nbsp;&nbsp;1964146_EzP0k2rt7Ht7aSMsF7dZOCN1mEEHq0wP</font><br>
 
 ### [OEIS](https://oeis.org/search?q=Jeongseop+Lee&language=english&go=Search) &nbsp;&nbsp;Jeongseop Lee
 
