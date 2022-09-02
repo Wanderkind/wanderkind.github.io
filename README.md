@@ -30,10 +30,6 @@
 
 ### [Kattis](https://open.kattis.com/users/es2r5638) &nbsp;&nbsp;이정섭.
 
-### [Dacon](https://dacon.io/myprofile/429672/home) &nbsp;&nbsp;Wanderkind
-
-### [Duolingo](https://www.duolingo.com/profile/Wanderkind99) &nbsp;&nbsp;이정섭&nbsp;/&nbsp;Wanderkind99
-
 ### [Instagram](https://www.instagram.com/joungsublee/) &nbsp;&nbsp;@joungsublee
 
 <br>
