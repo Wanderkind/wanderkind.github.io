@@ -28,7 +28,7 @@
 
 ### [AtCoder](https://atcoder.jp/users/wanderkind) &nbsp;&nbsp;wanderkind
 
-### [Kattis](https://open.kattis.com/users/es2r5638) &nbsp;&nbsp;이정섭.
+### [Lichess](https://lichess.org/@/Wanderkind) &nbsp;&nbsp;Wanderkind
 
 ### [Instagram](https://www.instagram.com/joungsublee/) &nbsp;&nbsp;@joungsublee
 
