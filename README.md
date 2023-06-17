@@ -18,7 +18,7 @@
 
 ### [ORCID](https://orcid.org/0000-0002-2388-1264) &nbsp;&nbsp;0000-0002-2388-1264 <br>
 
-### [Project Euler](https://projecteuler.net/) &nbsp;&nbsp; <font size="2"> &nbsp;&nbsp;1964146_EzP0k2rt7Ht7aSMsF7dZOCN1mEEHq0wP</font><span id="nsolved"><img src="https://projecteuler.net/profile/Wanderkind.png"/></span><br>
+### [Project Euler](https://projecteuler.net/) &nbsp;&nbsp; <font size="2"> 1964146_EzP0k2rt7Ht7aSMsF7dZOCN1mEEHq0wP</font><span id="nsolved">&nbsp;&nbsp;<img src="https://projecteuler.net/profile/Wanderkind.png"/></span><br>
 
 ### [OEIS](https://oeis.org/search?q=Jeongseop+Lee&language=english&go=Search) &nbsp;&nbsp;Jeongseop Lee
 
