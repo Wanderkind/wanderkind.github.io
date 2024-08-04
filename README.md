@@ -8,6 +8,8 @@
 
 ## Links
 
+### [YouTube](https://www.youtube.com/channel/UCIpJWx-071PwCuV95nn6SwA) &nbsp;&nbsp;이정섭
+
 ### [Blog](https://blog.naver.com/inamoratowanderlust) &nbsp;&nbsp;Archives : 네이버 블로그
 
 ### [SoundCloud](https://soundcloud.com/musicianwanderkind/sets) &nbsp;&nbsp;Wanderkind
