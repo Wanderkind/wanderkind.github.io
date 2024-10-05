@@ -8,7 +8,9 @@
 
 ## Links
 
-### [YouTube](https://www.youtube.com/channel/UCIpJWx-071PwCuV95nn6SwA) &nbsp;&nbsp;이정섭
+### [YouTube](https://www.youtube.com/@ErwinLee-99) &nbsp;&nbsp;Erwin Lee
+
+### [Twitch](https://www.twitch.tv/polyphonism) &nbsp;&nbsp;Polyphonism
 
 ### [Blog](https://blog.naver.com/inamoratowanderlust) &nbsp;&nbsp;Archives : 네이버 블로그
 
