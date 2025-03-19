@@ -8,7 +8,7 @@
 
 ## Links
 
-### YouTube &nbsp;&nbsp;[Erwin Lee](https://www.youtube.com/@ErwinLee-99) &nbsp;&nbsp; [MateInThree](https://www.youtube.com/@MateInThree) &nbsp;&nbsp;
+### YouTube &nbsp;&nbsp;[Erwin Lee](https://www.youtube.com/@ErwinLee-99) &nbsp;&nbsp;[MateInThree](https://www.youtube.com/@MateInThree) &nbsp;&nbsp;
 
 ### [Twitch](https://www.twitch.tv/polyphonism) &nbsp;&nbsp;Polyphonism
 
