@@ -16,8 +16,6 @@
 
 ### [SoundCloud](https://soundcloud.com/musicianwanderkind/sets) &nbsp;&nbsp;Wanderkind
 
-### [alookso](https://alook.so/users/dQtG62)
-
 ### [LinkedIn](https://www.linkedin.com/in/wanderkind/)
 
 ### [ORCID](https://orcid.org/0000-0002-2388-1264) &nbsp;&nbsp;0000-0002-2388-1264 <br>
