@@ -8,13 +8,13 @@
 
 ## Links
 
-### YouTube &nbsp;&nbsp;[Erwin Lee](https://www.youtube.com/@ErwinLee-99) &nbsp;&nbsp;[MateInThree](https://www.youtube.com/@MateInThree) &nbsp;&nbsp;
-
-### [Twitch](https://www.twitch.tv/polyphonism) &nbsp;&nbsp;Polyphonism
+### YouTube &nbsp;&nbsp;[Erwin Lee](https://www.youtube.com/@ErwinLee-99)
 
 ### [Blog](https://blog.naver.com/inamoratowanderlust) &nbsp;&nbsp;Archives : 네이버 블로그
 
 ### [SoundCloud](https://soundcloud.com/musicianwanderkind/sets) &nbsp;&nbsp;Wanderkind
+
+### [GeoGuessr](https://www.geoguessr.com/user/668295ac151a5d9fab7db710) &nbsp;&nbsp;Wanderkind
 
 ### [LinkedIn](https://www.linkedin.com/in/wanderkind/)
 
@@ -31,8 +31,6 @@
 ### [Codeforces](https://codeforces.com/profile/Wanderkind) &nbsp;&nbsp;Wanderkind
 
 ### [AtCoder](https://atcoder.jp/users/wanderkind) &nbsp;&nbsp;wanderkind
-
-### [Lichess](https://lichess.org/@/Wanderkind) &nbsp;&nbsp;Wanderkind
 
 ### [Instagram](https://www.instagram.com/joungsublee/) &nbsp;&nbsp;@joungsublee
 
