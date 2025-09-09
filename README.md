@@ -6,7 +6,7 @@
 
 <br>
 
-### [청년독서포럼 춤별혼](https://cafe.naver.com/starrystarrysouls) &nbsp; 운영진
+### [청년독서포럼 춤별혼](https://cafe.naver.com/starrystarrysouls) 운영진
 
 <br>
 
