@@ -1,9 +1,5 @@
 # Jeongseop Lee / 이정섭
 
-### A portfolio webpage
-
-##### Into methods of translating the ambiguities of man and nature to the language of numbers and logic.
-
 <br>
 
 ## Links
