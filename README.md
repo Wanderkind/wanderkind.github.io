@@ -4,8 +4,6 @@
 
 ## Links
 
-### [청년독서포럼 춤별혼](https://cafe.naver.com/starrystarrysouls) 운영진
-
 ### YouTube &nbsp;&nbsp;[Erwin Lee](https://www.youtube.com/@ErwinLee-99)
 
 ### [Blog](https://blog.naver.com/inamoratowanderlust) &nbsp;&nbsp;Archives : 네이버 블로그
