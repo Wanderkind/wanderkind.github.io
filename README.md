@@ -10,7 +10,7 @@
 
 ### [SoundCloud](https://soundcloud.com/musicianwanderkind/sets) &nbsp;&nbsp;Wanderkind
 
-### [GeoGuessr](https://www.geoguessr.com/user/668295ac151a5d9fab7db710) &nbsp;&nbsp;Wanderkind
+### [GeoGuessr](https://www.geoguessr.com/user/668295ac151a5d9fab7db710) &nbsp;&nbsp;Rāndalizt
 
 ### [LinkedIn](https://www.linkedin.com/in/wanderkind/)
 
