@@ -1,4 +1,4 @@
-# Jeongseop Lee / 이정섭
+# Jeongseop Lee
 
 <br>
 
@@ -6,7 +6,7 @@
 
 ### YouTube &nbsp;&nbsp;[Erwin Lee](https://www.youtube.com/@ErwinLee-99)
 
-### [Blog](https://blog.naver.com/inamoratowanderlust) &nbsp;&nbsp;Archives : 네이버 블로그
+### [Blog](https://blog.naver.com/inamoratowanderlust)
 
 ### [SoundCloud](https://soundcloud.com/musicianwanderkind/sets) &nbsp;&nbsp;Wanderkind
 
